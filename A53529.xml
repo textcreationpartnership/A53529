@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prologue to a new play called Venice preserv'd, or, The plot discovered at the Duke's Theatre, spoken by Mr. Smith.</title>
+            <author>Otway, Thomas, 1652-1685.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53529</idno><idno type="EEBO-CITATION">10750290</idno>
+  <idno type="VID">45663</idno>
+  <idno type="EEBO-PROQUEST">2240856770</idno>
+  
+            <idno type="STC">Wing O560</idno>
+            <idno type="STC">ESTC R28753</idno>
+            <idno type="OCLC">10750290</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A53529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45663)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1407:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prologue to a new play called Venice preserv'd, or, The plot discovered at the Duke's Theatre, spoken by Mr. Smith.</title>
+                  <author>Otway, Thomas, 1652-1685.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Also: Epilogue to the same spoken by Mr. Betterton.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prologue">
+            <pb facs="tcp:45663:1"/>
+            <pb facs="tcp:45663:1"/>
+            <head>PROLOGUE To a New PLAY, called Venice Preserv'd; OR <hi>THE PLOT DISCOVERED. At the Duke's Theatre, Spoken by Mr.</hi> SMITH.</head>
+            <lg>
+               <l>IN these unsettl'd Times, when each man dreads</l>
+               <l>The Bloody Stratagems of buisy Heads,</l>
+               <l>When we have fear'd three years I know not what,</l>
+               <l>Till Witnesses begin to die oth' Root,</l>
+               <l>What made our Poet meddle with a <hi>Plot?</hi>
+               </l>
+               <l>Was't that he fanci'd, for the very sake</l>
+               <l>And name of Plot, his trifling Play might take?</l>
+               <l>For there's not in't one Inch-board-evidence;</l>
+               <l>But is to each man's reason plain and sense:</l>
+               <l>And that he thinks a plausible defence.</l>
+               <l>Were Truth by Sense and Reason to be try'd;</l>
+               <l>Sure all our Swearers might be laid aside.</l>
+               <l>No, of such Tools our Author has no need,</l>
+               <l>To make his Plot, or make his Play succeed.</l>
+               <l>He of Black-Bills has no prodigious Tales,</l>
+               <l>Of <hi>Spanish-pilgrims</hi> thrown ashoar in <hi>Wales.</hi>
+               </l>
+               <l>Here's not one murdr'd Magistrate, at least</l>
+               <l>Kept rank, like Ven'son, for a City-feast:</l>
+               <l>Grown four dayes stiff, the better to prepare</l>
+               <l>And fit his plyant Limbs to ride in Chair,</l>
+               <l>Here are no Truths of such a Monstrous stature,</l>
+               <l>And some believe there are none such in Nature.</l>
+               <l>But here's an Army rais'd, though under ground,</l>
+               <l>Yet no Men seen, nor one Commission found.</l>
+               <l>Here is a Traitor too, that's very old,</l>
+               <l>Turbulent, subtile, mischeivous and bold,</l>
+               <l>Bloody, Revengeful; and to Crown his Part,</l>
+               <l>Loves fumbling with a Wench with all his heart,</l>
+               <l>And after having many Changes past,</l>
+               <l>In spight of Age, thanks Heav'n he's Hang'd at last.</l>
+               <l>Next, here's a Senator that keeps a Whore:</l>
+               <l>In <hi>Venice</hi> none a higher Office bore:</l>
+               <l>To Lewdness every night the Leacher ran:</l>
+               <l>Shew me in <hi>London</hi> such another man:</l>
+               <l>Match him at Mother <hi>Creswels</hi> if you can:</l>
+               <l>Ah <hi>Poland, Poland,</hi> had it been thy Lot</l>
+               <l>T' have heard in time of this <hi>Venetian-Plot,</hi>
+               </l>
+               <l>Thou surely chosen hadst one Plot from thence,</l>
+               <l>And honour'd Them, as thou hast <hi>England</hi> since.</l>
+            </lg>
+         </div>
+         <div type="epilogue">
+            <pb facs="tcp:45663:2"/>
+            <head>EPILOGUE <hi>to the same.</hi> Spoken by Mr. <hi>BETTERTON.</hi>
+            </head>
+            <lg>
+               <l>THe Text is done, and now for Application:</l>
+               <l>And when that's ended, give your Approbation.</l>
+               <l>Tho' the Conspiracy's prevented Here,</l>
+               <l>Methinks I see another Hatching There.</l>
+               <l>And there's a certain Faction fain would sway,</l>
+               <l>If they had strength enough, and damn this Play;</l>
+               <l>But this the Author boldly bad me say.</l>
+               <l>If any take his plainness in ill part,</l>
+               <l>He's glad on't from the bottom of his Heart.</l>
+               <l>Poets in honour of the Truth should Write,</l>
+               <l>With the same Courage Brave Men for it Fight.</l>
+               <l>And tho' against him causeless hatred rise,</l>
+               <l>And dayly where he goes of late he spies</l>
+               <l>The Frowns of sullen and revengeful Eyes.</l>
+               <l>'Tis what he knows, with much contempt, to bear,</l>
+               <l>And serves a Cause to good to let him fear.</l>
+               <l>He fears no Poyson from an incens'd Drab,</l>
+               <l>No Ruffians five foot Sword, nor Rascals Stab:</l>
+               <l>Nor any other Snares of Mischief, laid,</l>
+               <l>Not a <hi>Rose-Ally,</hi> Cudgel, Ambuscade.</l>
+               <l>From any privat Cause where Malice Reigns,</l>
+               <l>Or general Pique, that Blockheads have to Brains.</l>
+               <l>Nothing shall daunt his Pen when Truth doth call,</l>
+               <l>No, not the Picture-Mangler at <hi>Guild-hall.</hi>
+               </l>
+               <l>The Rebel Tribe (of which that Vermin's one)</l>
+               <l>Have now set forward, and the Course begun.</l>
+               <l>And while that Prince's Figure they deface,</l>
+               <l>Durst their base Fears but look him in the Face,</l>
+               <l>As they before had Massacred His Name,</l>
+               <l>They'd use His Person as they've us'd his Fame.</l>
+               <l>A Face, in which such Lineaments they Read,</l>
+               <l>Of that Great Martyr, whose Rich Blood they Shed,</l>
+               <l>That their Rebellious Hate they still maintain,</l>
+               <l>And, in his Son, would Murder Him again.</l>
+               <l>With Indignation then let each brave Heart,</l>
+               <l>Rowze and Unite to take His Injur'd Part,</l>
+               <l>Till Royal Love and Goodness call Him Home,</l>
+               <l>And Songs of Triumph meet Him as He come.</l>
+               <l>Till Heaven His Honour and His Peace Restore,</l>
+               <l>And Villains never wrong His Vertue more.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heir of <hi>Andrew Anderson,</hi> Printer to His most Sacred <hi>Majesty,</hi> 1682.</p>
+            <pb facs="tcp:45663:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
